@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0fd42dac-32c6-4795-af96-ed5a2aec4fed" name="dev_show" url="http://183.56.160.133">
+        <fileTransfer host="183.56.160.133" port="9999" rootFolder="/home/dengxiaowu/showdoc" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="9999" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
